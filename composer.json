@@ -10,5 +10,10 @@
         "psr-4": {
             "joshideas\\qbosdk3260\\": "src"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
     }
 }
