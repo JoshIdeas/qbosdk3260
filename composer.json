@@ -4,6 +4,6 @@
     "description": "PHP library that conncects to QuickBooks Online.",
     "license": "MIT",
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=5.5.0"
     }
 }
