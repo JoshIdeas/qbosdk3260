@@ -25,7 +25,7 @@ PECL OAuth (http://pecl.php.net/package/oauth)
 Drupal 7
 
 ```
-/sites/all/modules/libraries/qbosdk3260
+/sites/all/libraries/qbosdk3260
 ```
 
 Drupal 8
